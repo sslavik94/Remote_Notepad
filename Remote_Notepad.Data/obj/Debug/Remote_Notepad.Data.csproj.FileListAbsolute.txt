@@ -1,0 +1,18 @@
+C:\Remote_Notepad\Remote_Notepad.Data\bin\Debug\Remote_Notepad.Data.dll
+C:\Remote_Notepad\Remote_Notepad.Data\bin\Debug\Remote_Notepad.Data.pdb
+C:\Remote_Notepad\Remote_Notepad.Data\bin\Debug\Remote_Notepad.Domain.dll
+C:\Remote_Notepad\Remote_Notepad.Data\bin\Debug\Remote_Notepad.Service.Client.Contract.dll
+C:\Remote_Notepad\Remote_Notepad.Data\bin\Debug\Remote_Notepad.Domain.pdb
+C:\Remote_Notepad\Remote_Notepad.Data\bin\Debug\Remote_Notepad.Service.Client.Contract.pdb
+C:\Remote_Notepad\Remote_Notepad.Data\obj\Debug\Remote_Notepad.Data.csprojResolveAssemblyReference.cache
+C:\Remote_Notepad\Remote_Notepad.Data\obj\Debug\Remote_Notepad.Data.dll
+C:\Remote_Notepad\Remote_Notepad.Data\obj\Debug\Remote_Notepad.Data.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Data\bin\Debug\Remote_Notepad.Data.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Data\bin\Debug\Remote_Notepad.Data.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Data\bin\Debug\Remote_Notepad.Domain.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Data\bin\Debug\Remote_Notepad.Service.Client.Contract.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Data\bin\Debug\Remote_Notepad.Domain.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Data\bin\Debug\Remote_Notepad.Service.Client.Contract.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Data\obj\Debug\Remote_Notepad.Data.csprojResolveAssemblyReference.cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Data\obj\Debug\Remote_Notepad.Data.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Data\obj\Debug\Remote_Notepad.Data.pdb

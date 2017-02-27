@@ -1,0 +1,5 @@
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Utility\bin\Release\Remote_Notepad.Utility.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Utility\bin\Release\Remote_Notepad.Utility.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Utility\obj\Release\Remote_Notepad.Utility.csprojResolveAssemblyReference.cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Utility\obj\Release\Remote_Notepad.Utility.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Utility\obj\Release\Remote_Notepad.Utility.pdb

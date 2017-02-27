@@ -1,0 +1,9 @@
+C:\Remote_Notepad\Remote_Notepad.Domain\bin\Debug\Remote_Notepad.Domain.dll
+C:\Remote_Notepad\Remote_Notepad.Domain\bin\Debug\Remote_Notepad.Domain.pdb
+C:\Remote_Notepad\Remote_Notepad.Domain\obj\Debug\Remote_Notepad.Domain.csprojResolveAssemblyReference.cache
+C:\Remote_Notepad\Remote_Notepad.Domain\obj\Debug\Remote_Notepad.Domain.dll
+C:\Remote_Notepad\Remote_Notepad.Domain\obj\Debug\Remote_Notepad.Domain.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Domain\bin\Debug\Remote_Notepad.Domain.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Domain\bin\Debug\Remote_Notepad.Domain.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Domain\obj\Debug\Remote_Notepad.Domain.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Domain\obj\Debug\Remote_Notepad.Domain.pdb

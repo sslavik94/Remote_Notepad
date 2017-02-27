@@ -1,0 +1,70 @@
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.UI.exe.config
+C:\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI.exe
+C:\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI.pdb
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.UI.exe
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.UI.pdb
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Context.dll
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Control.dll
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Service.Client.Contract.dll
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Service.Client.Stub.dll
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.ViewModel.dll
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Domain.dll
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Data.dll
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Utility.dll
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Context.pdb
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Control.pdb
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Service.Client.Contract.pdb
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Service.Client.Stub.pdb
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.ViewModel.pdb
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Domain.pdb
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Data.pdb
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Utility.pdb
+C:\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI.csprojResolveAssemblyReference.cache
+C:\Remote_Notepad\Remote_Notepad.UI\obj\Debug\MainWindow.g.cs
+C:\Remote_Notepad\Remote_Notepad.UI\obj\Debug\App.g.cs
+C:\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI_MarkupCompile.cache
+C:\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI_MarkupCompile.lref
+C:\Remote_Notepad\Remote_Notepad.UI\obj\Debug\MainWindow.baml
+C:\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI.g.resources
+C:\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI.Properties.Resources.resources
+C:\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI.csproj.GenerateResource.Cache
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Utility.GeneralPurpose.dll
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Utility.GeneralPurpose.pdb
+C:\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Bootstrapper.config
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Bootstrapper.config
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.UI.exe.config
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.UI.exe
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.UI.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Context.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Control.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Service.Client.Contract.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Service.Client.Stub.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Utility.GeneralPurpose.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.ViewModel.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Domain.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Data.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Utility.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Context.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Control.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Service.Client.Contract.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Service.Client.Stub.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Utility.GeneralPurpose.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.ViewModel.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Domain.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Data.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Remote_Notepad.Utility.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI.csprojResolveAssemblyReference.cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\obj\Debug\MainWindow.g.cs
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\obj\Debug\App.g.cs
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI_MarkupCompile.cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI_MarkupCompile.lref
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\obj\Debug\MainWindow.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI.g.resources
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI.Properties.Resources.resources
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI.csproj.GenerateResource.Cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI.exe
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.UI\obj\Debug\Remote_Notepad.UI.pdb

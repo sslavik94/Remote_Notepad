@@ -1,0 +1,14 @@
+C:\Remote_Notepad\Remote_Notepad.Context\bin\Debug\Remote_Notepad.Context.dll
+C:\Remote_Notepad\Remote_Notepad.Context\bin\Debug\Remote_Notepad.Context.pdb
+C:\Remote_Notepad\Remote_Notepad.Context\obj\Debug\Remote_Notepad.Context.csprojResolveAssemblyReference.cache
+C:\Remote_Notepad\Remote_Notepad.Context\obj\Debug\Remote_Notepad.Context.dll
+C:\Remote_Notepad\Remote_Notepad.Context\obj\Debug\Remote_Notepad.Context.pdb
+C:\Remote_Notepad\Remote_Notepad.Context\bin\Debug\Remote_Notepad.Utility.GeneralPurpose.dll
+C:\Remote_Notepad\Remote_Notepad.Context\bin\Debug\Remote_Notepad.Utility.GeneralPurpose.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Context\bin\Debug\Remote_Notepad.Context.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Context\bin\Debug\Remote_Notepad.Context.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Context\bin\Debug\Remote_Notepad.Utility.GeneralPurpose.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Context\bin\Debug\Remote_Notepad.Utility.GeneralPurpose.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Context\obj\Debug\Remote_Notepad.Context.csprojResolveAssemblyReference.cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Context\obj\Debug\Remote_Notepad.Context.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Remote_Notepad\Remote_Notepad.Context\obj\Debug\Remote_Notepad.Context.pdb
